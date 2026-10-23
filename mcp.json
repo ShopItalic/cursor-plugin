@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "italic": {"url": "https://app.italic.com/api/v1/mcp"}
+  }
+}
